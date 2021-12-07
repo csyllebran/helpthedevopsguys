@@ -1,1 +1,1 @@
-Décrivez le processus de mise en production du SIPf.
+Décrivez le processus de mise en production du SIPf. Quels sont les équipes impactées dans ce processus ? Quels sont les livrables de chaque jalons ?
