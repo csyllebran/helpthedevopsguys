@@ -22,3 +22,4 @@ Le SIPf s'appuie sur trois pôles d'activité :
 2.  Au niveau de l'infrastructure technique : une équipe chargée de l'architecture des réseaux, de la sécurité, de l'administration des systèmes et de la convergence voix-données,  
 3.  En aval : une équipe chargée du support auprès des utilisateurs : support technique, hot line.
 
+**Décrivez l'organigramme actuel du SIPf.**
