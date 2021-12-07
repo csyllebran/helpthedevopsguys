@@ -1,0 +1,1 @@
+Vous devrez apprendre comment écrire des scripts Python à travers les ressources disponibles sur Internet.
