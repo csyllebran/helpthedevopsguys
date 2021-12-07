@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "004 - Outils devops/000 - Devops/Notes.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "004 - Outils devops/000 - Devops/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "4054f7132d4b18ae",
   "lastOpenFiles": [
+    "004 - Outils devops/000 - Devops/Notes.md",
     "README.md",
     "001 - Pour commencer/A - Introduction.md",
     "002 - La formation initiale/001 - Système d'exploitation/C - Le shell.md",
@@ -96,7 +97,6 @@
     "005 - Le processus de mises en production/Notes.md",
     "002 - La formation initiale/001 - Système d'exploitation/B - La distribution Debian.md",
     "002 - La formation initiale/001 - Système d'exploitation/A - L'OS de base est basé sur Linux.md",
-    "001 - Pour commencer/D - Les métiers de la CASR.md",
-    "001 - Pour commencer/C - La cellule administration système et réseaux.md"
+    "001 - Pour commencer/D - Les métiers de la CASR.md"
   ]
 }

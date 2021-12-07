@@ -1,0 +1,1 @@
+Veuillez décrire ce qu'est le mouvement DEVOPS et quels sont ces origines. Quels problématiques DEVOPS cherche-t-il à résoudre ?
