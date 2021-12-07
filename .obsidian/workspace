@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001 - Pour commencer/A - Introduction.md",
+            "file": "004 - Outils devops/003 - Rundeck/Notes.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - Pour commencer/A - Introduction.md",
+                "file": "004 - Outils devops/003 - Rundeck/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4054f7132d4b18ae",
   "lastOpenFiles": [
+    "004 - Outils devops/003 - Rundeck/Notes.md",
+    "004 - Outils devops/002 - Ansible/Notes.md",
+    "004 - Outils devops/001 - Terraform/Notes.md",
+    "004 - Outils devops/000 - Devops/Notes.md",
     "001 - Pour commencer/A - Introduction.md",
     "002 - La formation initiale/002 - Le socle applicatif/B - Java.md",
     "002 - La formation initiale/002 - Le socle applicatif/A - Description du socle applicatif du SIPF.md",
     "002 - La formation initiale/001 - Système d'exploitation/C - Le shell.md",
     "002 - La formation initiale/001 - Système d'exploitation/B - La distribution Debian.md",
-    "002 - La formation initiale/001 - Système d'exploitation/A - L'OS de base est basé sur Linux.md",
-    "001 - Pour commencer/D - Les métiers de la CASR.md",
-    "001 - Pour commencer/C - La cellule administration système et réseaux.md",
-    "001 - Pour commencer/B - Le service de l'informatique.md",
-    "005 - Le processus de mises en production/Notes.md"
+    "002 - La formation initiale/001 - Système d'exploitation/A - L'OS de base est basé sur Linux.md"
   ]
 }
