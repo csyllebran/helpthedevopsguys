@@ -23,3 +23,21 @@ Le SIPf s'appuie sur trois pôles d'activité :
 3.  En aval : une équipe chargée du support auprès des utilisateurs : support technique, hot line.
 
 **Décrivez l'organigramme actuel du SIPf.**
+
+Chef de Service
+|--|
+|   | Bureau Administratif et financier
+|   | Bureau de la sécurité des systèmes d'information
+|   | Bureau de la protection des données
+|   | Chargé de mission
+|
+|--| Section des projets
+|   |--|  Cellule pilotage
+|       |  Cellule développement
+|       |  Cellule architecture
+|
+|--| Section de le production
+|   |--|  Cellule administration système et réseaux
+|       |  Cellule assistance aux utilisateurs
+|       |  Cellule relations aux usagers
+
